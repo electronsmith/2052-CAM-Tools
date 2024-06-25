@@ -98,6 +98,7 @@
                 "tool_material": "'unspecified'",
                 "tool_numberOfFlutes": "1",
                 "tool_overallLength": "2.44 in",
+                "tool_productLink": "'https://shop.carbide3d.com/products/mcetcher-diamond-cnc-drag-bit?variant=39271659634749'",
                 "tool_shaftDiameter": "0.25 in",
                 "tool_shoulderLength": "0.268 in",
                 "tool_vendor": "'Carbide 3D'"
@@ -117,7 +118,6 @@
                 "tip-diameter": 0
             },
             "guid": "a8de2001-32f5-43fd-a3b0-7f2504c77202",
-            "last_modified": 1719342778565,
             "post-process": {
                 "break-control": false,
                 "comment": "",
@@ -129,8 +129,7 @@
                 "turret": 0
             },
             "product-id": "",
-            "product-link": "",
-            "reference_guid": "<NEW TOOL GUID>",
+            "product-link": "https://shop.carbide3d.com/products/mcetcher-diamond-cnc-drag-bit?variant=39271659634749",
             "shaft": {
                 "segments": [
                     {
@@ -160,7 +159,7 @@
                         "tool-coolant": "flood",
                         "use-stepdown": false,
                         "use-stepover": false,
-                        "v_c": 0.0366519142918809,
+                        "v_c": 0.03665191429188091,
                         "v_f": 40,
                         "v_f_leadIn": 40,
                         "v_f_leadOut": 40,
