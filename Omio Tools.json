@@ -1,0 +1,2051 @@
+{
+    "data": [
+        {
+            "BMC": "unspecified",
+            "GRADE": "Mill Generic",
+            "description": ".25\" x 60 Engraving Tool",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 0.8575,
+                "LCF": 0.1715,
+                "NOF": 2,
+                "OAL": 3,
+                "SFDM": 0.25,
+                "TA": 30,
+                "assemblyGaugeLength": 0.8575,
+                "shoulder-length": 0.1715,
+                "tip-diameter": 0
+            },
+            "guid": "dcc098fb-4d5d-42c2-8b75-e636b1455d36",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "SAMPLE preset for drilling with HSS drills in Titanium",
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.003937007874016,
+                        "guid": "65ada1e3-4a2a-4d5e-a522-70c2ea2e8f2f",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.2492347489367,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496,
+                        "v_f_transition": 39.37007874015748
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "1/8\" Upcut Flat Endmill ",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 0.6,
+                "LCF": 0.5,
+                "NOF": 1,
+                "OAL": 1.5,
+                "SFDM": 0.125,
+                "assemblyGaugeLength": 3.074,
+                "shoulder-length": 0.5
+            },
+            "guid": "fe7ba10e-df9b-4c35-a7ba-356c8ebff70a",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "X0022OW5CJ",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "SAMPLE preset for slotting in Aluminum",
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.007874015748031,
+                        "guid": "99de341e-ff05-4baa-ab08-14c61fa509c8",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 163.62461737446836,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496,
+                        "v_f_transition": 39.37007874015748
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Aluminum",
+                        "f_n": 0.001394329896907,
+                        "f_z": 0.004182989690722,
+                        "guid": "901b3222-0ba9-43f5-873b-65b27b466b3d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Aluminum - Slotting",
+                        "stepdown": 0.023453608247423,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 50.19217906284482,
+                        "v_f_leadIn": 50.19217906284482,
+                        "v_f_leadOut": 50.19217906284482,
+                        "v_f_plunge": 16.730726354281614,
+                        "v_f_ramp": 50.19587628865981,
+                        "v_f_transition": 50.19217906284482
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Aluminum",
+                        "f_n": 0.001394329896907,
+                        "f_z": 0.004182989690722,
+                        "guid": "cf3547e7-f681-4bee-96ef-03c44402209b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Aluminum - Use Me",
+                        "stepdown": 0.002,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 50.19217906284482,
+                        "v_f_leadIn": 50.19217906284482,
+                        "v_f_leadOut": 50.19217906284482,
+                        "v_f_plunge": 16.730726354281614,
+                        "v_f_ramp": 50.19587628865981,
+                        "v_f_transition": 50.19217906284482
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Aluminum",
+                        "f_n": 0.001761855670103,
+                        "f_z": 0.005285567010309,
+                        "guid": "938af52b-e114-427f-a84b-4419818be668",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Aluminum - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 63.42213236111042,
+                        "v_f_leadIn": 63.42213236111042,
+                        "v_f_leadOut": 63.42213236111042,
+                        "v_f_plunge": 21.1407107870368,
+                        "v_f_ramp": 63.42680412371136,
+                        "v_f_transition": 63.42213236111042
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Brass",
+                        "f_n": 0.001113917525773,
+                        "f_z": 0.00334175257732,
+                        "guid": "96110121-550d-46b0-9c72-abdc57a9a536",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Brass - Slotting",
+                        "stepdown": 0.023453608247423,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 40.09807724761836,
+                        "v_f_leadIn": 40.09807724761836,
+                        "v_f_leadOut": 40.09807724761836,
+                        "v_f_plunge": 13.366025749206123,
+                        "v_f_ramp": 40.10103092783507,
+                        "v_f_transition": 40.09807724761836
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Brass",
+                        "f_n": 0.001113917525773,
+                        "f_z": 0.00334175257732,
+                        "guid": "0c727bf6-b564-4f0c-a85c-0b0c34a0ad3e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Brass - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 40.09807724761836,
+                        "v_f_leadIn": 40.09807724761836,
+                        "v_f_leadOut": 40.09807724761836,
+                        "v_f_plunge": 13.366025749206123,
+                        "v_f_ramp": 40.10103092783507,
+                        "v_f_transition": 40.09807724761836
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Brass",
+                        "f_n": 0.00140793814433,
+                        "f_z": 0.00422381443299,
+                        "guid": "d733f432-791c-41ed-8581-30ff87825de9",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Brass - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 50.68203988623081,
+                        "v_f_leadIn": 50.68203988623081,
+                        "v_f_leadOut": 50.68203988623081,
+                        "v_f_plunge": 16.894013295410282,
+                        "v_f_ramp": 50.685773195876294,
+                        "v_f_transition": 50.68203988623081
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Copper",
+                        "f_n": 0.001113917525773,
+                        "f_z": 0.00334175257732,
+                        "guid": "0d80fb5f-79cf-437b-a393-6de79cd62564",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6875.493541569879,
+                        "n_ramp": 6875.493541569879,
+                        "name": "Copper - Slotting",
+                        "stepdown": 0.023453608247423,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 225,
+                        "v_f": 22.97619826288533,
+                        "v_f_leadIn": 22.97619826288533,
+                        "v_f_leadOut": 22.97619826288533,
+                        "v_f_plunge": 7.65873275429511,
+                        "v_f_ramp": 22.97789072164949,
+                        "v_f_transition": 22.97619826288533
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Copper",
+                        "f_n": 0.001113917525773,
+                        "f_z": 0.00334175257732,
+                        "guid": "7b4f6c1a-6ded-494c-b82a-52d9e53d4e39",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6875.493541569879,
+                        "n_ramp": 6875.493541569879,
+                        "name": "Copper - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 225,
+                        "v_f": 22.97619826288533,
+                        "v_f_leadIn": 22.97619826288533,
+                        "v_f_leadOut": 22.97619826288533,
+                        "v_f_plunge": 7.65873275429511,
+                        "v_f_ramp": 22.97789072164949,
+                        "v_f_transition": 22.97619826288533
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Copper",
+                        "f_n": 0.00140793814433,
+                        "f_z": 0.00422381443299,
+                        "guid": "9accfa13-13d4-4fa0-9e74-29f89a8b608d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6875.493541569879,
+                        "n_ramp": 6875.493541569879,
+                        "name": "Copper - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 225,
+                        "v_f": 29.04080885481026,
+                        "v_f_leadIn": 29.04080885481026,
+                        "v_f_leadOut": 29.04080885481026,
+                        "v_f_plunge": 9.680269618270088,
+                        "v_f_ramp": 29.042948041237125,
+                        "v_f_transition": 29.04080885481026
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Low Carbon Steel",
+                        "f_n": 0.000482783505155,
+                        "f_z": 0.001448350515464,
+                        "guid": "1ad2658c-dad9-42a3-b125-a1b443248d32",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Low Carbon Steel - Slotting",
+                        "stepdown": 0.023453608247423,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 17.378926029671153,
+                        "v_f_leadIn": 17.378926029671153,
+                        "v_f_leadOut": 17.378926029671153,
+                        "v_f_plunge": 5.792975343223717,
+                        "v_f_ramp": 17.380206185567012,
+                        "v_f_transition": 17.378926029671153
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Low Carbon Steel",
+                        "f_n": 0.000431958762887,
+                        "f_z": 0.00129587628866,
+                        "guid": "19ff9b59-1beb-4a4a-b02d-41d99ad62a58",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Low Carbon Steel - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 15.54937007566136,
+                        "v_f_leadIn": 15.54937007566136,
+                        "v_f_leadOut": 15.54937007566136,
+                        "v_f_plunge": 5.183123358553785,
+                        "v_f_ramp": 15.55051546391753,
+                        "v_f_transition": 15.54937007566136
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Low Carbon Steel",
+                        "f_n": 0.000546288659794,
+                        "f_z": 0.001638865979381,
+                        "guid": "b5c8d648-9ab3-4a4f-a9db-aa87303a3a5d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Low Carbon Steel - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 19.66494320547244,
+                        "v_f_leadIn": 19.66494320547244,
+                        "v_f_leadOut": 19.66494320547244,
+                        "v_f_plunge": 6.554981068490815,
+                        "v_f_ramp": 19.66639175257732,
+                        "v_f_transition": 19.66494320547244
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in High Carbon Steel",
+                        "f_n": 0.000438762886598,
+                        "f_z": 0.001316288659794,
+                        "guid": "fbedfcc6-e195-4824-b06e-6e81f2b11d76",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6111.549814728784,
+                        "n_ramp": 6111.549814728784,
+                        "name": "High Carbon Steel - Slotting",
+                        "stepdown": 0.023453608247423,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 8.044563714892483,
+                        "v_f_leadIn": 8.044563714892483,
+                        "v_f_leadOut": 8.044563714892483,
+                        "v_f_plunge": 2.681521238297494,
+                        "v_f_ramp": 8.045156288659795,
+                        "v_f_transition": 8.044563714892483
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in High Carbon Steel",
+                        "f_n": 0.000392474226804,
+                        "f_z": 0.001177422680412,
+                        "guid": "8508056e-ad2b-41dc-88a4-2ac7691b2c13",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6111.549814728784,
+                        "n_ramp": 6111.549814728784,
+                        "name": "High Carbon Steel - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 7.195877364331691,
+                        "v_f_leadIn": 7.195877364331691,
+                        "v_f_leadOut": 7.195877364331691,
+                        "v_f_plunge": 2.398625788110564,
+                        "v_f_ramp": 7.196407422680418,
+                        "v_f_transition": 7.195877364331691
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in High Carbon Steel",
+                        "f_n": 0.000505463917526,
+                        "f_z": 0.001516391752577,
+                        "guid": "2b4e3fbf-10dc-4512-8429-6cd4e57cf53a",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6111.549814728784,
+                        "n_ramp": 6111.549814728784,
+                        "name": "High Carbon Steel - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 9.267503734520172,
+                        "v_f_leadIn": 9.267503734520172,
+                        "v_f_leadOut": 9.267503734520172,
+                        "v_f_plunge": 3.089167911506723,
+                        "v_f_ramp": 9.268186391752575,
+                        "v_f_transition": 9.267503734520172
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Plastics",
+                        "f_n": 0.001409793814433,
+                        "f_z": 0.004229381443299,
+                        "guid": "616936e1-0960-4a32-a763-c94f52524c00",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Plastics - Slotting",
+                        "stepdown": 0.029252577319588,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 50.74883908941982,
+                        "v_f_leadIn": 50.74883908941982,
+                        "v_f_leadOut": 50.74883908941982,
+                        "v_f_plunge": 16.91627969647328,
+                        "v_f_ramp": 50.75257731958765,
+                        "v_f_transition": 50.74883908941982
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Plastics",
+                        "f_n": 0.001409793814433,
+                        "f_z": 0.004229381443299,
+                        "guid": "3be610b6-088c-4fc2-9eb4-a0e88b43d413",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Plastics - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 50.74883908941982,
+                        "v_f_leadIn": 50.74883908941982,
+                        "v_f_leadOut": 50.74883908941982,
+                        "v_f_plunge": 16.91627969647328,
+                        "v_f_ramp": 50.75257731958765,
+                        "v_f_transition": 50.74883908941982
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Plastics",
+                        "f_n": 0.001738659793814,
+                        "f_z": 0.005215979381443,
+                        "guid": "8b0d09d1-81c3-40c0-ab44-62e12ba5635e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Plastics - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 392.6701570680628,
+                        "v_f": 62.58714232124792,
+                        "v_f_leadIn": 62.58714232124792,
+                        "v_f_leadOut": 62.58714232124792,
+                        "v_f_plunge": 20.8623807737493,
+                        "v_f_ramp": 62.5917525773196,
+                        "v_f_transition": 62.58714232124792
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Stainless Steel",
+                        "f_n": 0.000438762886598,
+                        "f_z": 0.001316288659794,
+                        "guid": "129c6704-3f20-4b1a-917c-c1091a5d6917",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6111.549814728784,
+                        "n_ramp": 6111.549814728784,
+                        "name": "Stainless Steel - Slotting",
+                        "stepdown": 0.04375,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 8.044563714892483,
+                        "v_f_leadIn": 8.044563714892483,
+                        "v_f_leadOut": 8.044563714892483,
+                        "v_f_plunge": 2.681521238297494,
+                        "v_f_ramp": 8.045156288659795,
+                        "v_f_transition": 8.044563714892483
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Stainless Steel",
+                        "f_n": 0.000392474226804,
+                        "f_z": 0.001177422680412,
+                        "guid": "93bf809f-41ab-4907-af1b-c90efba5fbc7",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6111.549814728784,
+                        "n_ramp": 6111.549814728784,
+                        "name": "Stainless Steel - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 7.195877364331691,
+                        "v_f_leadIn": 7.195877364331691,
+                        "v_f_leadOut": 7.195877364331691,
+                        "v_f_plunge": 2.398625788110564,
+                        "v_f_ramp": 7.196407422680418,
+                        "v_f_transition": 7.195877364331691
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Stainless Steel",
+                        "f_n": 0.000505463917526,
+                        "f_z": 0.001516391752577,
+                        "guid": "dbeae6c4-e0c9-4fea-81d9-a5fbafb50800",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 6111.549814728784,
+                        "n_ramp": 6111.549814728784,
+                        "name": "Stainless Steel - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 9.267503734520172,
+                        "v_f_leadIn": 9.267503734520172,
+                        "v_f_leadOut": 9.267503734520172,
+                        "v_f_plunge": 3.089167911506723,
+                        "v_f_ramp": 9.268186391752575,
+                        "v_f_transition": 9.267503734520172
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Titanium",
+                        "f_n": 0.000718144329897,
+                        "f_z": 0.002154432989691,
+                        "guid": "78ab75f3-7ff5-48a3-8e20-651beb95c2c4",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 4583.662361046586,
+                        "n_ramp": 4583.662361046586,
+                        "name": "Titanium - Slotting",
+                        "stepdown": 0.023453608247423,
+                        "stepover": 0.125,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 150,
+                        "v_f": 9.87519340424243,
+                        "v_f_leadIn": 9.87519340424243,
+                        "v_f_leadOut": 9.87519340424243,
+                        "v_f_plunge": 3.291731134747476,
+                        "v_f_ramp": 9.875920824742266,
+                        "v_f_transition": 9.87519340424243
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Titanium",
+                        "f_n": 0.000710412371134,
+                        "f_z": 0.002131237113402,
+                        "guid": "ad4b1f14-88dd-41ae-b548-aae575b4ec5f",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 4583.662361046586,
+                        "n_ramp": 4583.662361046586,
+                        "name": "Titanium - Roughing",
+                        "stepdown": 0.375,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 150,
+                        "v_f": 9.768871339166605,
+                        "v_f_leadIn": 9.768871339166605,
+                        "v_f_leadOut": 9.768871339166605,
+                        "v_f_plunge": 3.256290446388868,
+                        "v_f_ramp": 9.769590927835054,
+                        "v_f_transition": 9.768871339166605
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Titanium",
+                        "f_n": 0.000718144329897,
+                        "f_z": 0.002154432989691,
+                        "guid": "9df34e9a-8178-44f7-acbd-863d90f4e822",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 4583.662361046586,
+                        "n_ramp": 4583.662361046586,
+                        "name": "Titanium - Finishing",
+                        "stepdown": 0.375,
+                        "stepover": 0.011984536082474,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 150,
+                        "v_f": 9.87519340424243,
+                        "v_f_leadIn": 9.87519340424243,
+                        "v_f_leadOut": 9.87519340424243,
+                        "v_f_plunge": 3.291731134747476,
+                        "v_f_ramp": 9.875920824742266,
+                        "v_f_transition": 9.87519340424243
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Aluminum",
+                        "f_n": 0.0008125,
+                        "f_z": 0.002,
+                        "guid": "af4d2479-9954-4f5b-b0de-5185c4d5ddd3",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 16000.000000000002,
+                        "n_ramp": 16000.000000000002,
+                        "name": "PolyCarb",
+                        "stepdown": 0.002,
+                        "stepover": 0.01965206185567,
+                        "tool-coolant": "mist",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 523.598775598299,
+                        "v_f": 32,
+                        "v_f_leadIn": 32,
+                        "v_f_leadOut": 32,
+                        "v_f_plunge": 12.999999999999998,
+                        "v_f_ramp": 12.999999999999998,
+                        "v_f_transition": 32
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Genmitsu"
+        },
+        {
+            "BMC": "carbide",
+            "GRADE": "Mill Generic",
+            "description": "1/4\" Upcut Flat Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 0.85,
+                "LCF": 0.7,
+                "NOF": 1,
+                "OAL": 2,
+                "SFDM": 0.25,
+                "assemblyGaugeLength": 3.324,
+                "shoulder-length": 0.75
+            },
+            "guid": "27cdd658-5a13-4a6e-97a5-a34c722ac7ec",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 0,
+                "length-offset": 0,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 0,
+                "turret": 0
+            },
+            "product-id": "31014-SC",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "SAMPLE preset for slotting in Aluminum",
+                        "f_n": 0.00262467191601,
+                        "f_z": 0.007874015748031,
+                        "guid": "82e99ff7-87cf-453e-94c2-8fc38c5d6929",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 327.2492347489367,
+                        "v_f": 39.37007874015748,
+                        "v_f_leadIn": 39.37007874015748,
+                        "v_f_leadOut": 39.37007874015748,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496,
+                        "v_f_transition": 39.37007874015748
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Aluminum",
+                        "f_n": 0.002762886597938,
+                        "f_z": 0.008288659793814,
+                        "guid": "11c8af91-81f2-4e78-b027-c497530c5140",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Aluminum - Slotting",
+                        "stepdown": 0.060438144329897,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 785.3403141361255,
+                        "v_f": 99.45659141473136,
+                        "v_f_leadIn": 99.45659141473136,
+                        "v_f_leadOut": 99.45659141473136,
+                        "v_f_plunge": 33.15219713824377,
+                        "v_f_ramp": 99.46391752577324,
+                        "v_f_transition": 99.45659141473136
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Aluminum",
+                        "f_n": 0.000729077777778,
+                        "f_z": 0.002,
+                        "guid": "d13f1453-67d0-4ba7-8de6-e878385b9e23",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Aluminum - Use Me",
+                        "stepdown": 0.015,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "mist",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 1178.0972450961726,
+                        "v_f": 36.000000000000014,
+                        "v_f_leadIn": 36.000000000000014,
+                        "v_f_leadOut": 36.000000000000014,
+                        "v_f_plunge": 13.1234,
+                        "v_f_ramp": 13.1234,
+                        "v_f_transition": 36.000000000000014
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Aluminum",
+                        "f_n": 0.003491237113402,
+                        "f_z": 0.010473711340206,
+                        "guid": "024f8455-8e03-4d9d-921f-20bee721b432",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11999.116128394204,
+                        "n_ramp": 11999.116128394204,
+                        "name": "Aluminum - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 785.3403141361255,
+                        "v_f": 125.6752786664133,
+                        "v_f_leadIn": 125.6752786664133,
+                        "v_f_leadOut": 125.6752786664133,
+                        "v_f_plunge": 41.891759555471104,
+                        "v_f_ramp": 125.68453608247428,
+                        "v_f_transition": 125.6752786664133
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Brass",
+                        "f_n": 0.002209278350515,
+                        "f_z": 0.006627835051546,
+                        "guid": "9573d5c8-d4ed-4050-bad8-c543492922e4",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7639.437268410977,
+                        "n_ramp": 7639.437268410977,
+                        "name": "Brass - Slotting",
+                        "stepdown": 0.060438144329897,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 500,
+                        "v_f": 50.6329301016641,
+                        "v_f_leadIn": 50.6329301016641,
+                        "v_f_leadOut": 50.6329301016641,
+                        "v_f_plunge": 16.877643367221374,
+                        "v_f_ramp": 50.63665979381445,
+                        "v_f_transition": 50.6329301016641
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Brass",
+                        "f_n": 0.002209278350515,
+                        "f_z": 0.006627835051546,
+                        "guid": "a98fc5dc-f309-4de3-91ab-5bbcacbaf1fa",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7639.437268410977,
+                        "n_ramp": 7639.437268410977,
+                        "name": "Brass - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 500,
+                        "v_f": 50.6329301016641,
+                        "v_f_leadIn": 50.6329301016641,
+                        "v_f_leadOut": 50.6329301016641,
+                        "v_f_plunge": 16.877643367221374,
+                        "v_f_ramp": 50.63665979381445,
+                        "v_f_transition": 50.6329301016641
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Brass",
+                        "f_n": 0.002791958762887,
+                        "f_z": 0.00837587628866,
+                        "guid": "d359557c-32f8-4b22-9650-fae02cf45a4b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7639.437268410977,
+                        "n_ramp": 7639.437268410977,
+                        "name": "Brass - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 500,
+                        "v_f": 63.98698147518744,
+                        "v_f_leadIn": 63.98698147518744,
+                        "v_f_leadOut": 63.98698147518744,
+                        "v_f_plunge": 21.32899382506249,
+                        "v_f_ramp": 63.991694845360826,
+                        "v_f_transition": 63.98698147518744
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Copper",
+                        "f_n": 0.002209278350515,
+                        "f_z": 0.006627835051546,
+                        "guid": "5718cc9f-e38a-4c5d-b3c2-a2644ccdd409",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3437.7467707849405,
+                        "n_ramp": 3437.7467707849405,
+                        "name": "Copper - Slotting",
+                        "stepdown": 0.060438144329897,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 225.00000000000003,
+                        "v_f": 22.78481854574884,
+                        "v_f_leadIn": 22.78481854574884,
+                        "v_f_leadOut": 22.78481854574884,
+                        "v_f_plunge": 7.594939515249616,
+                        "v_f_ramp": 22.78649690721649,
+                        "v_f_transition": 22.78481854574884
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Copper",
+                        "f_n": 0.002209278350515,
+                        "f_z": 0.006627835051546,
+                        "guid": "59957f78-12f6-4201-b336-0772a09d15fb",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3437.7467707849405,
+                        "n_ramp": 3437.7467707849405,
+                        "name": "Copper - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 225.00000000000003,
+                        "v_f": 22.78481854574884,
+                        "v_f_leadIn": 22.78481854574884,
+                        "v_f_leadOut": 22.78481854574884,
+                        "v_f_plunge": 7.594939515249616,
+                        "v_f_ramp": 22.78649690721649,
+                        "v_f_transition": 22.78481854574884
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Copper",
+                        "f_n": 0.002791958762887,
+                        "f_z": 0.00837587628866,
+                        "guid": "0a67d96e-818d-4763-ab3d-6a454e36e150",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3437.7467707849405,
+                        "n_ramp": 3437.7467707849405,
+                        "name": "Copper - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 225.00000000000003,
+                        "v_f": 28.794141663834345,
+                        "v_f_leadIn": 28.794141663834345,
+                        "v_f_leadOut": 28.794141663834345,
+                        "v_f_plunge": 9.598047221278115,
+                        "v_f_ramp": 28.79626268041237,
+                        "v_f_transition": 28.794141663834345
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Low Carbon Steel",
+                        "f_n": 0.000951855670103,
+                        "f_z": 0.002855567010309,
+                        "guid": "6c020f53-bd17-4084-8921-32568718d0ba",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7639.437268410977,
+                        "n_ramp": 7639.437268410977,
+                        "name": "Low Carbon Steel - Slotting",
+                        "stepdown": 0.060438144329897,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 500,
+                        "v_f": 21.814925041001608,
+                        "v_f_leadIn": 21.814925041001608,
+                        "v_f_leadOut": 21.814925041001608,
+                        "v_f_plunge": 7.271641680333873,
+                        "v_f_ramp": 21.81653195876289,
+                        "v_f_transition": 21.814925041001608
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Low Carbon Steel",
+                        "f_n": 0.000854639175258,
+                        "f_z": 0.002563917525773,
+                        "guid": "8cf88f18-d8dd-46c7-8eb2-94a20af5db5d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7639.437268410977,
+                        "n_ramp": 7639.437268410977,
+                        "name": "Low Carbon Steel - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 500,
+                        "v_f": 19.58688709952381,
+                        "v_f_leadIn": 19.58688709952381,
+                        "v_f_leadOut": 19.58688709952381,
+                        "v_f_plunge": 6.528962366507939,
+                        "v_f_ramp": 19.588329896907215,
+                        "v_f_transition": 19.58688709952381
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Low Carbon Steel",
+                        "f_n": 0.001087525773196,
+                        "f_z": 0.003262577319588,
+                        "guid": "76d7df88-79a4-4c11-9c1a-de140ef61e9d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 7639.437268410977,
+                        "n_ramp": 7639.437268410977,
+                        "name": "Low Carbon Steel - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 500,
+                        "v_f": 24.92425476633012,
+                        "v_f_leadIn": 24.92425476633012,
+                        "v_f_leadOut": 24.92425476633012,
+                        "v_f_plunge": 8.308084922110039,
+                        "v_f_ramp": 24.92609072164949,
+                        "v_f_transition": 24.92425476633012
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in High Carbon Steel",
+                        "f_n": 0.000869175257732,
+                        "f_z": 0.002607525773196,
+                        "guid": "5f0f35da-7dcd-4412-8dbd-9c2284a402fc",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3055.774907364392,
+                        "n_ramp": 3055.774907364392,
+                        "name": "High Carbon Steel - Slotting",
+                        "stepdown": 0.060438144329897,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 7.96801182803789,
+                        "v_f_leadIn": 7.96801182803789,
+                        "v_f_leadOut": 7.96801182803789,
+                        "v_f_plunge": 2.656003942679297,
+                        "v_f_ramp": 7.968598762886598,
+                        "v_f_transition": 7.96801182803789
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in High Carbon Steel",
+                        "f_n": 0.000781649484536,
+                        "f_z": 0.002344948453608,
+                        "guid": "02d40534-fe5f-4a3e-88d9-9fb94afdf030",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3055.774907364392,
+                        "n_ramp": 3055.774907364392,
+                        "name": "High Carbon Steel - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 7.165634643599017,
+                        "v_f_leadIn": 7.165634643599017,
+                        "v_f_leadOut": 7.165634643599017,
+                        "v_f_plunge": 2.388544881199671,
+                        "v_f_ramp": 7.166162474226804,
+                        "v_f_transition": 7.165634643599017
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in High Carbon Steel",
+                        "f_n": 0.001000309278351,
+                        "f_z": 0.003000927835052,
+                        "guid": "80269ded-0d01-42d4-8c5e-d71ac79e163e",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3055.774907364392,
+                        "n_ramp": 3055.774907364392,
+                        "name": "High Carbon Steel - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 9.17015997716186,
+                        "v_f_leadIn": 9.17015997716186,
+                        "v_f_leadOut": 9.17015997716186,
+                        "v_f_plunge": 3.056719992387287,
+                        "v_f_ramp": 9.170835463917529,
+                        "v_f_transition": 9.17015997716186
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Plastics",
+                        "f_n": 0.002773195876289,
+                        "f_z": 0.008319587628866,
+                        "guid": "a52e01ff-f552-4252-a4cc-d58a76e59b7f",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11459.155902616463,
+                        "n_ramp": 11459.155902616463,
+                        "name": "Plastics - Slotting",
+                        "stepdown": 0.068170103092784,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 749.9999999999998,
+                        "v_f": 95.3354516846545,
+                        "v_f_leadIn": 95.3354516846545,
+                        "v_f_leadOut": 95.3354516846545,
+                        "v_f_plunge": 31.77848389488483,
+                        "v_f_ramp": 95.34247422680411,
+                        "v_f_transition": 95.3354516846545
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Plastics",
+                        "f_n": 0.002773195876289,
+                        "f_z": 0.008319587628866,
+                        "guid": "612e8833-63ab-4f44-8db3-e97f0f0052c2",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11459.155902616463,
+                        "n_ramp": 11459.155902616463,
+                        "name": "Plastics - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 749.9999999999998,
+                        "v_f": 95.3354516846545,
+                        "v_f_leadIn": 95.3354516846545,
+                        "v_f_leadOut": 95.3354516846545,
+                        "v_f_plunge": 31.77848389488483,
+                        "v_f_ramp": 95.34247422680411,
+                        "v_f_transition": 95.3354516846545
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Plastics",
+                        "f_n": 0.003475773195876,
+                        "f_z": 0.010427319587629,
+                        "guid": "4ed279bc-3134-4722-98ce-15910939b062",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 11459.155902616463,
+                        "n_ramp": 11459.155902616463,
+                        "name": "Plastics - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 749.9999999999998,
+                        "v_f": 119.4882808010456,
+                        "v_f_leadIn": 119.4882808010456,
+                        "v_f_leadOut": 119.4882808010456,
+                        "v_f_plunge": 39.829426933681866,
+                        "v_f_ramp": 119.4970824742268,
+                        "v_f_transition": 119.4882808010456
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Stainless Steel",
+                        "f_n": 0.000869175257732,
+                        "f_z": 0.002607525773196,
+                        "guid": "b51bd779-b472-45be-a584-69d71d6fb5f8",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3055.774907364392,
+                        "n_ramp": 3055.774907364392,
+                        "name": "Stainless Steel - Slotting",
+                        "stepdown": 0.0875,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 7.96801182803789,
+                        "v_f_leadIn": 7.96801182803789,
+                        "v_f_leadOut": 7.96801182803789,
+                        "v_f_plunge": 2.656003942679297,
+                        "v_f_ramp": 7.968598762886598,
+                        "v_f_transition": 7.96801182803789
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Stainless Steel",
+                        "f_n": 0.000781649484536,
+                        "f_z": 0.002344948453608,
+                        "guid": "591fd768-10a6-42c8-bf7e-02692d29915b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3055.774907364392,
+                        "n_ramp": 3055.774907364392,
+                        "name": "Stainless Steel - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 7.165634643599017,
+                        "v_f_leadIn": 7.165634643599017,
+                        "v_f_leadOut": 7.165634643599017,
+                        "v_f_plunge": 2.388544881199671,
+                        "v_f_ramp": 7.166162474226804,
+                        "v_f_transition": 7.165634643599017
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Stainless Steel",
+                        "f_n": 0.001000309278351,
+                        "f_z": 0.003000927835052,
+                        "guid": "150c0fca-14c5-418e-a1f9-d3744c2a4ec7",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 3055.774907364392,
+                        "n_ramp": 3055.774907364392,
+                        "name": "Stainless Steel - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 200.00000000000009,
+                        "v_f": 9.17015997716186,
+                        "v_f_leadIn": 9.17015997716186,
+                        "v_f_leadOut": 9.17015997716186,
+                        "v_f_plunge": 3.056719992387287,
+                        "v_f_ramp": 9.170835463917529,
+                        "v_f_transition": 9.17015997716186
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Titanium",
+                        "f_n": 0.001488762886598,
+                        "f_z": 0.004466288659794,
+                        "guid": "dee581b7-f44e-4439-9941-09af960e8e21",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2291.831180523293,
+                        "n_ramp": 2291.831180523293,
+                        "name": "Titanium - Slotting",
+                        "stepdown": 0.060438144329897,
+                        "stepover": 0.25,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 150,
+                        "v_f": 10.235979611733054,
+                        "v_f_leadIn": 10.235979611733054,
+                        "v_f_leadOut": 10.235979611733054,
+                        "v_f_plunge": 3.411993203911018,
+                        "v_f_ramp": 10.236733608247423,
+                        "v_f_transition": 10.235979611733054
+                    },
+                    {
+                        "description": "SAMPLE preset for roughing in Titanium",
+                        "f_n": 0.001483608247423,
+                        "f_z": 0.004450824742268,
+                        "guid": "7f381ccd-1a1f-4210-869d-7bee7850eeff",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2291.831180523293,
+                        "n_ramp": 2291.831180523293,
+                        "name": "Titanium - Roughing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.047036082474227,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 150,
+                        "v_f": 10.200538923374449,
+                        "v_f_leadIn": 10.200538923374449,
+                        "v_f_leadOut": 10.200538923374449,
+                        "v_f_plunge": 3.400179641124816,
+                        "v_f_ramp": 10.201290309278352,
+                        "v_f_transition": 10.200538923374449
+                    },
+                    {
+                        "description": "SAMPLE preset for finishing in Titanium",
+                        "f_n": 0.001488762886598,
+                        "f_z": 0.004466288659794,
+                        "guid": "9111f42a-9122-420d-aaaa-8e54c85effdd",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 2291.831180523293,
+                        "n_ramp": 2291.831180523293,
+                        "name": "Titanium - Finishing",
+                        "stepdown": 0.5625,
+                        "stepover": 0.028479381443299,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 150,
+                        "v_f": 10.235979611733054,
+                        "v_f_leadIn": 10.235979611733054,
+                        "v_f_leadOut": 10.235979611733054,
+                        "v_f_plunge": 3.411993203911018,
+                        "v_f_ramp": 10.236733608247423,
+                        "v_f_transition": 10.235979611733054
+                    },
+                    {
+                        "description": "SAMPLE preset for slotting in Aluminum",
+                        "f_n": 0.000820209973753,
+                        "f_z": 0.0035,
+                        "guid": "94194d5a-88c6-404c-aa3f-92b5a0822d18",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 16000.000000000002,
+                        "n_ramp": 16000.000000000002,
+                        "name": "PolyCarb",
+                        "stepdown": 0.03,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": false,
+                        "v_c": 1047.1975511965975,
+                        "v_f": 56,
+                        "v_f_leadIn": 56,
+                        "v_f_leadOut": 56,
+                        "v_f_plunge": 13.123359580052496,
+                        "v_f_ramp": 13.123359580052496,
+                        "v_f_transition": 56
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "Yonico"
+        },
+        {
+            "BMC": "carbide",
+            "description": "1/8\" Flat Downcut Endmill",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.125,
+                "HAND": true,
+                "LB": 1.1,
+                "LCF": 0.75,
+                "NOF": 2,
+                "OAL": 1.8,
+                "SFDM": 0.125,
+                "assemblyGaugeLength": 1.1,
+                "shoulder-length": 1.1
+            },
+            "guid": "2dd1f759-8b8f-40f3-94e9-330873f8a893",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 2,
+                "length-offset": 2,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 2,
+                "turret": 0
+            },
+            "product-id": "N2LXD3.17",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.0016666666666666663,
+                        "f_z": 0.0011250000000000003,
+                        "guid": "efdbb602-0e69-4d33-89d2-be56e61ac2be",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 8000.000000000003,
+                        "n_ramp": 8000.000000000003,
+                        "name": "Aluminum",
+                        "stepdown": 0.015,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": false,
+                        "v_c": 261.7993877991495,
+                        "v_f": 18.000000000000014,
+                        "v_f_leadIn": 18.000000000000014,
+                        "v_f_leadOut": 18.000000000000014,
+                        "v_f_plunge": 13.333333333333336,
+                        "v_f_ramp": 13.333333333333336,
+                        "v_f_transition": 18.000000000000014
+                    },
+                    {
+                        "f_n": 0.0016666666666666663,
+                        "f_z": 0.0011250000000000003,
+                        "guid": "3e6d39c1-c750-4962-bd8d-4aa712c7dd8d",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 8000.000000000003,
+                        "n_ramp": 8000.000000000003,
+                        "name": "PolyCarb",
+                        "stepdown": 0.015,
+                        "tool-coolant": "flood",
+                        "use-stepdown": true,
+                        "use-stepover": false,
+                        "v_c": 261.7993877991495,
+                        "v_f": 18.000000000000014,
+                        "v_f_leadIn": 18.000000000000014,
+                        "v_f_leadOut": 18.000000000000014,
+                        "v_f_plunge": 13.333333333333336,
+                        "v_f_ramp": 13.333333333333336,
+                        "v_f_transition": 18.000000000000014
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "inches",
+            "vendor": "HQ Master"
+        },
+        {
+            "BMC": "carbide",
+            "description": "2\" Spoilboard Surfacing bit",
+            "geometry": {
+                "CSP": false,
+                "DC": 2.04,
+                "HAND": true,
+                "LB": 0.8,
+                "LCF": 0.51,
+                "NOF": 4,
+                "OAL": 2.46,
+                "RE": 0,
+                "SFDM": 0.5,
+                "TA": 0,
+                "assemblyGaugeLength": 0.8,
+                "shoulder-length": 0.52
+            },
+            "guid": "1e449072-f071-4a51-9585-b59c90a31af9",
+            "last_modified": 1679705563617,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 3,
+                "length-offset": 3,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 3,
+                "turret": 0
+            },
+            "product-id": "ASIN B07VCZVKL7",
+            "product-link": "https://www.amazon.com/CNC-Router-Bit-Wood-NITOMAK/dp/B07VCZVKL7",
+            "reference_guid": "<NEW TOOL GUID>",
+            "shaft": {
+                "segments": [
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 0.5,
+                        "upper-diameter": 0.5
+                    }
+                ],
+                "type": "shaft"
+            },
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.002666666666667,
+                        "f_z": 0.002,
+                        "guid": "edfd2249-10a1-4acf-8c50-699bedc27c7b",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 2670.353755551324,
+                        "v_f": 40,
+                        "v_f_leadIn": 40,
+                        "v_f_leadOut": 40,
+                        "v_f_plunge": 13.333333333333336,
+                        "v_f_ramp": 13.333333333333336,
+                        "v_f_transition": 40
+                    },
+                    {
+                        "f_n": 0.001333333333333,
+                        "f_z": 0.003,
+                        "guid": "a8c1b2cc-a03a-4467-891e-cf11b90f5ea0",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 10000,
+                        "n_ramp": 10000,
+                        "name": "MDF",
+                        "tool-coolant": "air",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 5340.707511102648,
+                        "v_f": 120,
+                        "v_f_leadIn": 120,
+                        "v_f_leadOut": 120,
+                        "v_f_plunge": 13.333333333333336,
+                        "v_f_ramp": 13.333333333333336,
+                        "v_f_transition": 120
+                    }
+                ]
+            },
+            "type": "face mill",
+            "unit": "inches",
+            "vendor": "BINSTAK "
+        },
+        {
+            "BMC": "carbide",
+            "description": "1/4\" online carbide chamfer",
+            "expressions": {
+                "tool_bodyLength": "1 in",
+                "tool_description": "'1/4\" online carbide chamfer'",
+                "tool_diameter": ".25 in",
+                "tool_fluteLength": ".25 in",
+                "tool_material": "'carbide'",
+                "tool_numberOfFlutes": "4",
+                "tool_overallLength": "2.5 in",
+                "tool_shaftDiameter": ".25 in",
+                "tool_shoulderLength": ".25 in"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.25,
+                "HAND": true,
+                "LB": 1,
+                "LCF": 0.25,
+                "NOF": 4,
+                "OAL": 2.5,
+                "SFDM": 0.25,
+                "TA": 45,
+                "assemblyGaugeLength": 1,
+                "shoulder-length": 0.25,
+                "tip-diameter": 0
+            },
+            "guid": "6256436a-2f26-4bce-b466-94bb9e73d32d",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 4,
+                "length-offset": 4,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 4,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_spindleSpeed": "10000 rpm"
+                        },
+                        "f_n": 0.0013333333333333333,
+                        "f_z": 0.001,
+                        "guid": "d633fe9c-2449-49df-b749-1382190c48f0",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 10000,
+                        "n_ramp": 10000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 654.4984694978734,
+                        "v_f": 40,
+                        "v_f_leadIn": 40,
+                        "v_f_leadOut": 40,
+                        "v_f_plunge": 13.333333333333334,
+                        "v_f_ramp": 13.333333333333334,
+                        "v_f_transition": 40
+                    },
+                    {
+                        "expressions": {
+                            "tool_feedCutting": "50 inpm",
+                            "tool_feedEntry": "50 inpm",
+                            "tool_feedPlunge": "20 inpm",
+                            "tool_feedRamp": "20 inpm",
+                            "tool_spindleSpeed": "10000 rpm"
+                        },
+                        "f_n": 0.002,
+                        "f_z": 0.00125,
+                        "guid": "725b30ed-d237-4f18-a8d5-65dc97519109",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 10000,
+                        "n_ramp": 10000,
+                        "name": "aluminum",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 654.4984694978734,
+                        "v_f": 50,
+                        "v_f_leadIn": 50,
+                        "v_f_leadOut": 50,
+                        "v_f_plunge": 20,
+                        "v_f_ramp": 20,
+                        "v_f_transition": 50
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "description": "MC Etcher 120",
+            "expressions": {
+                "tool_description": "'MC Etcher 120'",
+                "tool_diameter": ".140 in",
+                "tool_fluteLength": "0.035 in",
+                "tool_inclusiveAngle": "120degrees",
+                "tool_material": "'unspecified'",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "2.44 in",
+                "tool_shaftDiameter": "0.25 in",
+                "tool_shoulderLength": "0.268 in",
+                "tool_vendor": "'Carbide 3D'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.14,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.035,
+                "NOF": 1,
+                "OAL": 2.44,
+                "SFDM": 0.25,
+                "TA": 60,
+                "assemblyGaugeLength": 1.5,
+                "shoulder-length": 0.268,
+                "tip-diameter": 0
+            },
+            "guid": "8363f206-41c5-4dcc-86dd-9feddeaa5ace",
+            "last_modified": 1714506982433,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 5,
+                "length-offset": 5,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 5,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "shaft": {
+                "segments": [
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 0.5,
+                        "upper-diameter": 0.5
+                    }
+                ],
+                "type": "shaft"
+            },
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_spindleSpeed": "1rpm"
+                        },
+                        "f_n": 13.333333333333334,
+                        "f_z": 40,
+                        "guid": "c728531a-41ed-4064-9e94-7ec01dbee7ed",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1,
+                        "n_ramp": 1,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 0.03665191429188091,
+                        "v_f": 40,
+                        "v_f_leadIn": 40,
+                        "v_f_leadOut": 40,
+                        "v_f_plunge": 13.333333333333334,
+                        "v_f_ramp": 13.333333333333334,
+                        "v_f_transition": 40
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "inches",
+            "vendor": "Carbide 3D"
+        },
+        {
+            "BMC": "unspecified",
+            "description": "MC Etcher 90",
+            "expressions": {
+                "tool_description": "'MC Etcher 90'",
+                "tool_diameter": ".140 in",
+                "tool_fluteLength": "0.06 in",
+                "tool_inclusiveAngle": "90 degrees",
+                "tool_material": "'unspecified'",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "2.44 in",
+                "tool_shaftDiameter": "0.25 in",
+                "tool_shoulderLength": "0.268 in",
+                "tool_vendor": "'Carbide 3D'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.14,
+                "HAND": true,
+                "LB": 1.5,
+                "LCF": 0.06,
+                "NOF": 1,
+                "OAL": 2.44,
+                "SFDM": 0.25,
+                "TA": 45,
+                "assemblyGaugeLength": 1.5,
+                "shoulder-length": 0.268,
+                "tip-diameter": 0
+            },
+            "guid": "7b34a054-b2a7-43a1-8dbd-e40608a4d0f9",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 5,
+                "length-offset": 5,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 5,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "shaft": {
+                "segments": [
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 0.5,
+                        "upper-diameter": 0.5
+                    }
+                ],
+                "type": "shaft"
+            },
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_spindleSpeed": "1rpm"
+                        },
+                        "f_n": 13.333333333333334,
+                        "f_z": 40,
+                        "guid": "c728531a-41ed-4064-9e94-7ec01dbee7ed",
+                        "material": {
+                            "category": "all",
+                            "query": ""
+                        },
+                        "n": 1,
+                        "n_ramp": 1,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 0.03665191429188091,
+                        "v_f": 40,
+                        "v_f_leadIn": 40,
+                        "v_f_leadOut": 40,
+                        "v_f_plunge": 13.333333333333334,
+                        "v_f_ramp": 13.333333333333334,
+                        "v_f_transition": 40
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "inches",
+            "vendor": "Carbide 3D"
+        }
+    ],
+    "version": 25
+}
